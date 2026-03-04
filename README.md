@@ -1,4 +1,4 @@
-project: prometheus-grafana-monitoring
+prometheus-grafana-monitoring
 
 summary:
   - Launched an EC2 instance and configured security group ports for monitoring (3000, 9090, 9100).
